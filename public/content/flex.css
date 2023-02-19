@@ -1,0 +1,12 @@
+.flex {
+    display: flex;
+}
+
+.flex-baseline {
+    align-items: baseline;
+}
+
+.flex-self-baseline {
+    align-self: baseline;
+}
+
